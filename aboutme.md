@@ -25,4 +25,11 @@ To be honest, I'm having some trouble remembering right now,
 - KV AFS -> BIT<br>
 - Contributor in [ytdl-official](https://github.com/ytdl-official)<br>
 - Joining SDI<br>
-- Chat GPT - Game changer<br>
+- ChatGPT - Game changer<br>
+
+### Extraas
+- Mastering Minesweeper
+- - 10 💣 - 7s
+- - 40 💣 - 61s
+- - 99 💣 - 194s
+- NFSMW BE
