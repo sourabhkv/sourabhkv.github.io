@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some facts
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sourabh Kumar Verma.
+I am pursuing my B.E. from Bangalore Institute of Technology.
+ I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Explorer
+- Learner
+- I enjoy working with deadlines.
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now,
+Openkv project
+Custom ROM - greater Rewards with greater Risk
+Corona Lockdown -> ytdl project
+KV AFS -> BIT
+Not getting into NITs, but got BIT
+Joining SDI
+Chat GPT - Game changer
