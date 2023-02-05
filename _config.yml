@@ -49,7 +49,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sourabhkv96@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: 
   github: sourabhkv
 #  twitter: daattali
@@ -128,12 +128,12 @@ navbar-col: "#D70A53"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#303135"
-text-col: "#707070"
+text-col: "#FEFEFE"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#D70A53"
-footer-text-col: "#909090"
-footer-link-col: "#404040"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
