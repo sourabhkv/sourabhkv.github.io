@@ -29,7 +29,7 @@ To be honest, I'm having some trouble remembering right now,
 
 ### Extraas
 - Mastering Minesweeper
-- - 10 💣 - 7s
-- - 40 💣 - 61s
-- - 99 💣 - 194s
+  - 10 💣 - 7s
+  - 40 💣 - 61s
+  - 99 💣 - 194s
 - NFSMW BE
