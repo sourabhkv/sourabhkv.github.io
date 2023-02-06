@@ -1,7 +1,8 @@
 ---
 layout: post
 title: ytdl - journey
-subtitle: Some of my projects
+subtitle: Development of ytdl
+thumbnail-img: /assets/img/logo.png
 ---
 
 ## [ytdl](https://github.com/sourabhkv/ytdl) ![output-onlinepngtools](https://user-images.githubusercontent.com/55890376/147201322-7cb830c8-9a47-4bbb-ad0b-d79d4c09b58a.png)
