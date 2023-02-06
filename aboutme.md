@@ -7,7 +7,7 @@ subtitle: Some facts
 <link rel="shortcut icon" type="x-icon" href="profile.png">
 
 My name is Sourabh Kumar Verma.
-I am pursuing my B.E. from Bangalore Institute of Technology.
+I am pursuing my B.E. from Bangalore Institute of Technology; 2nd year.
  I have the following qualities:
 - Explorer
 - Learner
@@ -23,7 +23,6 @@ To be honest, I'm having some trouble remembering right now,
 - Contributor in [yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
 - Corona Lockdown -> ytdl project<br>
 - KV AFS -> BIT<br>
-- Contributor in [ytdl-official](https://github.com/ytdl-official)<br>
 - Joining SDI<br>
 - ChatGPT - Game changer<br>
 
